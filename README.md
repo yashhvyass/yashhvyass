@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on -<br>1. Textly tool which helps you paraphrase any text depending on different styles.<br>2. How to use LLMs to make sports better.
+I'm currently working on -<br>1. Textly tool which helps you paraphrase any text depending on different styles.<br>2. LLMs to make sports better.
 
 
 ## 🌐 Socials:
