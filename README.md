@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+ <!---- # 💫 About Me:
 I'm currently working on -<br>1. Textly tool which helps you paraphrase any text depending on different styles.<br>2. LLMs to make sports better.
-
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashhvyass/) 
@@ -28,6 +28,6 @@ I'm currently working on -<br>1. Textly tool which helps you paraphrase any text
 <!--- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashhvyass&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashhvyass&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashhvyass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ---!>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashhvyass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
